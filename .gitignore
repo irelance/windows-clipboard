@@ -1,0 +1,6 @@
+.idea
+.vs
+packages
+clipboard/clipboard.csproj.user
+clipboard/bin
+clipboard/obj
